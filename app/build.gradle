@@ -6,7 +6,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "susu.com.ocelo"
+        applicationId "susu.com.Othello"
         minSdkVersion 28
         targetSdkVersion 29
         versionCode 1

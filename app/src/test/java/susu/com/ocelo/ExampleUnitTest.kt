@@ -1,4 +1,4 @@
-package susu.com.ocelo
+package susu.com.Othello
 
 import org.junit.Test
 

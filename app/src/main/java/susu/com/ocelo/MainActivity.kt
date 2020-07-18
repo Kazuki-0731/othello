@@ -1,4 +1,4 @@
-package susu.com.ocelo
+package susu.com.Othello
 
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
