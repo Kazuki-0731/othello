@@ -1,4 +1,4 @@
-package susu.com.othello
+package susu.com.othello.view.activity
 
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
