@@ -1,4 +1,4 @@
-package susu.com.Othello
+package susu.com.othello
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
